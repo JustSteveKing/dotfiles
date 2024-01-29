@@ -2,16 +2,22 @@ import = [
     "~/.config/alacritty/themes/aura.toml"
 ]
 
+live_config_reload = true
+
 [font]
 size = 35
 
 [mouse]
 hide_when_typing = true
 
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+save_to_clipboard = true
+
 [window]
 decorations = "none"
 blur = true
-startup_mode = "maximized"
+startup_mode = "fullscreen"
 
 [window.padding]
 x = 7
