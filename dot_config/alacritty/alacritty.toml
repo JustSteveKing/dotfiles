@@ -1,0 +1,14 @@
+[font]
+size = 35
+
+[mouse]
+hide_when_typing = true
+
+[window]
+decorations = "none"
+blur = true
+startup_mode = "maximized"
+
+[window.padding]
+x = 7
+y = 0
