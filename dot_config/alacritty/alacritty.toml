@@ -7,7 +7,6 @@ size = 35
 
 [font.normal]
 family = "SFMono Nerd Font"
-style = Regular
 
 [mouse]
 hide_when_typing = true
