@@ -6,7 +6,7 @@ import = [
 size = 35
 
 [font.normal]
-family = "SFMono Nerd Font"
+family = "SpaceMono Nerd Font"
 
 [mouse]
 hide_when_typing = true
