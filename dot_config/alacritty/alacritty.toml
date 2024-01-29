@@ -5,6 +5,10 @@ import = [
 [font]
 size = 35
 
+[font.normal]
+family = "SFMono Nerd Font"
+style = Regular
+
 [mouse]
 hide_when_typing = true
 
@@ -14,7 +18,9 @@ save_to_clipboard = true
 
 [window]
 decorations = "none"
+dynamic_padding = false
 blur = true
+opacity = 0.85
 startup_mode = "Fullscreen"
 
 [window.padding]
