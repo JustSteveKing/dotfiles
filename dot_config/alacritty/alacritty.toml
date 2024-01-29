@@ -1,3 +1,7 @@
+import = [
+    "~/.config/alacritty/themes/aura.toml"
+]
+
 [font]
 size = 35
 
