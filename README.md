@@ -1,3 +1,11 @@
 # Dotfiles
 
-My personal dotfiles. I use Chezmoi to manage these across machines
+My personal dotfiles.
+
+## Includes
+
+- Alacritty config
+- Nix flake
+- Nvim config
+- Tmux config
+- ZSH config
